@@ -1,9 +1,10 @@
 {
 	"name": "interface-handlers",
-	"license": "ISC",
+	"license": "MIT",
 	"tags": ["cross", "java"],
 	"description": "This library allows you to use native Haxe functions through Java-style one-method-interface wrappers.",
 	"version": "0.1.0",
 	"contributors": ["singpolyma"],
-	"dependencies": { }
+	"dependencies": { },
+	"releasenote": "Initial release"
 }

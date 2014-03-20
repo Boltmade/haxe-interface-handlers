@@ -9,7 +9,7 @@ import java.lang.Runnable;
 class SomeClass {
   function something() {
     someJavaMethodTakes(toHandler(function(){
-      trace("ran!);
+      trace("ran!");
     }, Runnable.run));
   }
 }
